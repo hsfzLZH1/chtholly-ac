@@ -1,6 +1,6 @@
 # chtholly-wa
 
-中国珂学院网站 The Chinese Academy of Chtholly
+[中国珂学院网站](https://hsfzlzh1.github.io/chtholly-wa/)
 
 侵删
 
